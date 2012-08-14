@@ -1,0 +1,11 @@
+c:\users\wichard\documents\visual studio 2012\Projects\C-Bot\C-Bot\bin\Debug\C-Bot.exe.config
+c:\users\wichard\documents\visual studio 2012\Projects\C-Bot\C-Bot\bin\Debug\C-Bot.exe
+c:\users\wichard\documents\visual studio 2012\Projects\C-Bot\C-Bot\bin\Debug\C-Bot.pdb
+c:\users\wichard\documents\visual studio 2012\Projects\C-Bot\C-Bot\obj\Debug\C-Bot.csprojResolveAssemblyReference.cache
+c:\users\wichard\documents\visual studio 2012\Projects\C-Bot\C-Bot\obj\Debug\C_Bot.Forms.Interface.resources
+c:\users\wichard\documents\visual studio 2012\Projects\C-Bot\C-Bot\obj\Debug\C_Bot.Properties.Resources.resources
+c:\users\wichard\documents\visual studio 2012\Projects\C-Bot\C-Bot\obj\Debug\C-Bot.csproj.GenerateResource.Cache
+c:\users\wichard\documents\visual studio 2012\Projects\C-Bot\C-Bot\obj\Debug\C-Bot.exe
+c:\users\wichard\documents\visual studio 2012\Projects\C-Bot\C-Bot\obj\Debug\C-Bot.pdb
+C:\Users\Wichard\documents\visual studio 2012\Projects\C-Bot\C-Bot\obj\Debug\C_Bot.Forms.Accounts.resources
+C:\Users\Wichard\documents\visual studio 2012\Projects\C-Bot\C-Bot\obj\Debug\C_Bot.Forms.About.resources
